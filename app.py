@@ -373,7 +373,6 @@ role_questions = {
 ("Which financial report is essential?",["P&L Statement","Temperature report","Gaming report","None"],"P&L Statement"),
 ("Staff training includes?",["Product knowledge & service skills","Ignore","Coding","Gaming"],"Product knowledge & service skills")
 ],
-
 }
 
 # ---------------- LOGIN PAGE ----------------
